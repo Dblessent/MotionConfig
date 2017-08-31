@@ -1,6 +1,6 @@
 Motion Server config files - for either one or two threads (cameras)
 
-Used for NestCam Birdwatching hardware
+Used for NestCam Birdwatching
 ---
 
 motion.conf = current
